@@ -1,0 +1,133 @@
+natural coastline 1 232 229 223 232 229 223
+natural land 1 232 229 223 232 229 223
+natural grassland 1 198 228 180 198 228 180
+natural heath 1 214 217 159 214 217 159
+natural sand 1 241 229 184 241 229 184
+natural water 1 136 189 214 136 189 214
+leisure sports_centre 2 38 198 134 38 198 134
+landuse forest 1 157 202 138 157 202 138 resources/imgs/textures/landuse_forest.png
+landuse grass 1 197 236 148 197 236 148 
+landuse basin 1 166 198 198 166 198 198 
+landuse brownfield 1 167 168 126 167 168 126 
+landuse industrial 1 230 209 227 230 209 227 
+landuse military 1 240 209 203 240 209 203 
+landuse reservoir 1 166 198 198 166 198 198 
+landuse village_green 1 197 236 148 197 236 148 
+landuse farmyard 1 234 204 164 234 204 164 
+landuse garages 1 214 214 196 214 214 196 
+landuse greenfield 1 241 238 232 241 238 232 
+landuse construction 1 167 168 126 167 168 126 
+landuse farm 1 249 232 203 249 232 203 
+landuse landfill 1 167 168 126 167 168 126 
+landuse recreation_ground 1 197 236 148 197 236 148 
+landuse meadow 1 207 236 168 207 236 168 
+landuse pasture 1 207 236 168 207 236 168
+landuse residential 1 218 218 218 218 218 218
+leisure park 2 205 247 201 180 210 180 
+leisure pitch 2 138 211 175 101 166 125 
+leisure garden 2 207 236 168 207 236 168 
+leisure stadium 2 38 198 134 38 198 134
+leisure track 2 138 211 175 38 198 134
+waterway river 15 136 189 214 136 189 214
+waterway riverbank 15 186 219 244 186 219 244
+waterway canal 8 136 189 214 136 189 214
+amenity parking 1 255 255 193 220 210 100
+amenity college 1 236 238 206 216 218 186
+amenity school 1 236 238 206 216 218 186
+building yes 1 205 199 188 175 169 158 
+building church 1 205 183 136 170 153 106 
+railway tram 3 69 69 69 69 69 69
+highway bridleway 1 65 182 87 65 182 87
+highway path 1 255 141 135 255 141 135
+highway track 1 176 133 9 176 133 9
+highway footway 1 255 144 138 255 144 138
+highway cycleway 1 157 156 246 157 156 246
+highway pedestrian 5 233 230 244 213 210 224
+highway living_street 5 237 238 237 197 197 197 
+highway service 5 245 245 245 174 174 174 
+highway residential 5 245 245 245 174 174 174
+highway unclassified 8 245 245 245 174 174 174 
+highway tertiary 10 255 255 179 174 174 174 
+highway secondary 10 243 254 181 117 144 0 
+highway primary 10 254 216 155 176 124 0 
+highway primary_link 10 254 216 155 176 124 0 
+barrier wall 1 80 80 80 80 80 80 
+barrier fence 1 170 153 106 170 153 106 
+barrier city_wall 2 80 80 80 80 80 80 
+amenity atm 0 0 0 0 0 0 0 resources/imgs/icons/amenity_atm.png
+amenity bank 0 0 0 0 0 0 0 resources/imgs/icons/amenity_bank.png
+amenity bar 0 0 0 0 0 0 0 resources/imgs/icons/amenity_bar.png
+amenity bbq 0 0 0 0 0 0 0 resources/imgs/icons/amenity_bbq.png
+amenity bench 0 0 0 0 0 0 0 resources/imgs/icons/amenity_bench.png
+amenity biergarten 0 0 0 0 0 0 0 resources/imgs/icons/amenity_biergarten.png
+amenity bus_station 0 0 0 0 0 0 0 resources/imgs/icons/amenity_bus_station.png
+amenity cafe 0 0 0 0 0 0 0 resources/imgs/icons/amenity_cafe.png
+amenity car_wash 0 0 0 0 0 0 0 resources/imgs/icons/amenity_car_wash.png
+amenity cinema 0 0 0 0 0 0 0 resources/imgs/icons/amenity_cinema.png
+amenity courthouse 0 0 0 0 0 0 0 resources/imgs/icons/amenity_courthouse.png
+amenity dentist 0 0 0 0 0 0 0 resources/imgs/icons/amenity_dentist.png
+amenity doctor 0 0 0 0 0 0 0 resources/imgs/icons/amenity_doctor.png
+amenity drinking_water 0 0 0 0 0 0 0 resources/imgs/icons/amenity_drinking_water.png
+amenity embassy 0 0 0 0 0 0 0 resources/imgs/icons/amenity_embassy.png
+amenity fast_food 0 0 0 0 0 0 0 resources/imgs/icons/amenity_fast_food.png
+amenity fire_station 0 0 0 0 0 0 0 resources/imgs/icons/amenity_fire_station.png
+amenity fountain 0 0 0 0 0 0 0 resources/imgs/icons/amenity_fountain.png
+amenity fuel 0 0 0 0 0 0 0 resources/imgs/icons/amenity_fuel.png
+amenity hospital 0 0 0 0 0 0 0 resources/imgs/icons/amenity_hospital.png
+amenity hunting 0 0 0 0 0 0 0 resources/imgs/icons/amenity_hunting.png
+amenity ice_cream 0 0 0 0 0 0 0 resources/imgs/icons/amenity_ice_cream.png
+amenity library 0 0 0 0 0 0 0 resources/imgs/icons/amenity_library.png
+amenity nightclub 0 0 0 0 0 0 0 resources/imgs/icons/amenity_nightclub.png
+amenity parking_bicycle 0 0 0 0 0 0 0 resources/imgs/icons/amenity_parking_bicycle.png
+amenity pharmacy 0 0 0 0 0 0 0 resources/imgs/icons/amenity_pharmacy.png
+amenity police 0 0 0 0 0 0 0 resources/imgs/icons/amenity_police.png
+amenity post_box 0 0 0 0 0 0 0 resources/imgs/icons/amenity_post_box.png
+amenity post_office 0 0 0 0 0 0 0 resources/imgs/icons/amenity_post_office.png
+amenity prison 0 0 0 0 0 0 0 resources/imgs/icons/amenity_prison.png
+amenity pub 0 0 0 0 0 0 0 resources/imgs/icons/amenity_pub.png
+amenity recycling 0 0 0 0 0 0 0 resources/imgs/icons/amenity_recycling.png
+amenity restaurant 0 0 0 0 0 0 0 resources/imgs/icons/amenity_restaurant.png
+amenity social_facility 0 0 0 0 0 0 0 resources/imgs/icons/amenity_social_facility.png
+amenity theatre 0 0 0 0 0 0 0 resources/imgs/icons/amenity_theatre.png
+amenity toilets 0 0 0 0 0 0 0 resources/imgs/icons/amenity_toilets.png
+amenity town_hall 0 0 0 0 0 0 0 resources/imgs/icons/amenity_town_hall.png
+amenity veterinary 0 0 0 0 0 0 0 resources/imgs/icons/amenity_veterinary.png
+amenity waste_basket 0 0 0 0 0 0 0 resources/imgs/icons/amenity_waste_basket.png
+man_made lighthouse 0 0 0 0 0 0 0 resources/imgs/icons/man_made_lighthouse.png
+man_made mast 0 0 0 0 0 0 0 resources/imgs/icons/man_made_mast.png
+man_made water_tower 0 0 0 0 0 0 0 resources/imgs/icons/man_made_water_tower.png
+man_made windmill 0 0 0 0 0 0 0 resources/imgs/icons/man_made_windmill.png
+shop alcohol 0 0 0 0 0 0 0 resources/imgs/icons/shop_alcohol.png
+shop bakery 0 0 0 0 0 0 0 resources/imgs/icons/shop_bakery.png
+shop beauty 0 0 0 0 0 0 0 resources/imgs/icons/shop_beauty.png
+shop beverages 0 0 0 0 0 0 0 resources/imgs/icons/shop_beverages.png
+shop bicycle 0 0 0 0 0 0 0 resources/imgs/icons/shop_bicycle.png
+shop books 0 0 0 0 0 0 0 resources/imgs/icons/shop_books.png
+shop car 0 0 0 0 0 0 0 resources/imgs/icons/shop_car.png
+shop chemist 0 0 0 0 0 0 0 resources/imgs/icons/shop_chemist.png
+shop clothes 0 0 0 0 0 0 0 resources/imgs/icons/shop_clothes.png
+shop computer 0 0 0 0 0 0 0 resources/imgs/icons/shop_computer.png
+shop convenience 0 0 0 0 0 0 0 resources/imgs/icons/shop_convenience.png
+shop electronics 0 0 0 0 0 0 0 resources/imgs/icons/shop_electronics.png
+shop florist 0 0 0 0 0 0 0 resources/imgs/icons/shop_florist.png
+shop furniture 0 0 0 0 0 0 0 resources/imgs/icons/shop_furniture.png
+shop greengrocer 0 0 0 0 0 0 0 resources/imgs/icons/shop_greengrocer.png
+shop hairdresser 0 0 0 0 0 0 0 resources/imgs/icons/shop_hairdresser.png
+shop hifi 0 0 0 0 0 0 0 resources/imgs/icons/shop_hifi.png
+shop jewellery 0 0 0 0 0 0 0 resources/imgs/icons/shop_jewellery.png
+shop laundry 0 0 0 0 0 0 0 resources/imgs/icons/shop_laundry.png
+shop mobile_phone 0 0 0 0 0 0 0 resources/imgs/icons/shop_mobile_phone.png
+shop musical_instrument 0 0 0 0 0 0 0 resources/imgs/icons/shop_musical_instrument.png
+shop optician 0 0 0 0 0 0 0 resources/imgs/icons/shop_optician.png
+shop perfumery 0 0 0 0 0 0 0 resources/imgs/icons/shop_perfumery.png
+shop pet 0 0 0 0 0 0 0 resources/imgs/icons/shop_pet.png
+shop photo 0 0 0 0 0 0 0 resources/imgs/icons/shop_photo.png
+shop seafood 0 0 0 0 0 0 0 resources/imgs/icons/shop_seafood.png
+shop shoes 0 0 0 0 0 0 0 resources/imgs/icons/shop_shoes.png
+shop supermarket 0 0 0 0 0 0 0 resources/imgs/icons/shop_supermarket.png
+tourism camp_site 0 0 0 0 0 0 0 resources/imgs/icons/tourism_camp_site.png
+tourism caravan_site 0 0 0 0 0 0 0 resources/imgs/icons/tourism_caravan_site.png
+tourism hostel 0 0 0 0 0 0 0 resources/imgs/icons/tourism_hostel.png
+tourism hotel 0 0 0 0 0 0 0 resources/imgs/icons/tourism_hotel.png
+tourism motel 0 0 0 0 0 0 0 resources/imgs/icons/tourism_motel.png
+tourism museum 0 0 0 0 0 0 0 resources/imgs/icons/tourism_museum.png
